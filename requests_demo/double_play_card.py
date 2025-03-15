@@ -20,7 +20,7 @@ json_data = {
     'self_win_card_num': 0,
     'oppo_win_card_num': 1,
     'oppo_left_cards': 16,
-    'passwd': 'hk25f98y',
+    'passwd': 'w4f7we3p',
 }
 
 response = requests.post('http://47.116.37.81:8567/ai-poker/play-card', headers=headers, json=json_data)
